@@ -33,3 +33,16 @@ The dataset is split into:
    ```bash
    git clone https://github.com/your-username/salary-prediction.git
    cd salary-prediction
+2. Install required Puthon libraries
+   pip install -r requirements.txt
+
+## File Structure
+salary-prediction/
+│
+├── Salary_Data.csv        # Dataset file
+├── setup.py   # Main script to run the model
+├── README.md              # Project documentation
+├── requirements.txt       # List of dependencies
+
+## Dependencies
+The project reuiqres the following Python libraries
